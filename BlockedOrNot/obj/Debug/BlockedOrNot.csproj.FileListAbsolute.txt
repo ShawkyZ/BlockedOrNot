@@ -1,0 +1,10 @@
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\bin\Debug\BlockedOrNot.exe.config
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.csprojResolveAssemblyReference.cache
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.Form1.resources
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.Properties.Resources.resources
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.csproj.GenerateResource.Cache
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\bin\Debug\BlockedOrNot.exe
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\bin\Debug\BlockedOrNot.pdb
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.exe
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.pdb
+c:\users\abdo\documents\visual studio 2013\Projects\BlockedOrNot\BlockedOrNot\obj\Debug\BlockedOrNot.GetID.resources
