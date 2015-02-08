@@ -1,7 +1,7 @@
 ## Blocked Or Not
 Simple Tool To Check If A User Blocked You Or Deactivated His Account On Facebook.
 
-### > [Download Installer](http://goo.gl/spClUw)
+### > [Download Installer](http://goo.gl/3IBjgp)
 
 
 ## How To Use:
