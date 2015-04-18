@@ -8,7 +8,7 @@ Simple Tool To Check If A User Blocked You Or Deactivated His Account On Faceboo
 ## How To Use:
 1- Get The ID Of The User (You Can Get It From Your Facebook Messages).
 
-2- Click Check Button And Watit For The Result.
+2- Click The Check Button And Wait For The Result.
 
 
 > Works On Windows Vista , 7 , 8 Since The .NET 3.5 is Supported On It.
